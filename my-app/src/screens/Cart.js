@@ -5,6 +5,7 @@ const Cart = () => {
     <div>
       <h1>cart</h1>
       {/* this is just demo */}
+      {/* this is just demo */}
     </div>
   );
 };
