@@ -1,0 +1,34 @@
+/* body {
+  text-decoration: none !important;
+} */
+
+* {
+  text-decoration: none !important;
+  /* color: gray; */
+}
+
+h5,
+h3,
+span {
+  color: gray;
+}
+
+main {
+  min-height: 80vh;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.card-title {
+  color: black !important;
+}
+
+/* .rating span {
+  color: yellow;
+} */
+
+ul > li > .list-item-name {
+  font-weight: bold !important;
+}
